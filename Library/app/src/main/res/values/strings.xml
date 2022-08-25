@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="welcome_text">Hello, fellow librarian! Welcome to the library app!\nKindly select what you would want to do.</string>
+    <string name="add_book">Add a Book</string>
+    <string name="search_book">Search a Book</string>
+    <string name="issue_book">Issue a Book</string>
+    <string name="view_map">View Library</string>
+    <string name="view_library">View Library</string>
+    <string name="book_name">Name of Book</string>
+    <string name="author_name">Author Name</string>
+    <string name="genre">Genre</string>
+    <string name="add_intro">Kindly enter the following details about the book!</string>
+    <string name="add_item">Add Book</string>
+    <string name="cancel">Cancel</string>
+    <string name="issue_intro">Kindly enter the details of the student and the book!</string>
+    <string name="student_name">Name of Student</string>
+    <string name="rollno">Roll Number of Student</string>
+    <string name="issue_item">Issue Book</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="return_book">Return a book</string>
+    <string name="book">"Book Name: "</string>
+    <string name="return_intro">Kindly enter the book name and verify the details of the student!</string>
+    <string name="return_item">Return Book</string>
+    <string name="search_phrase">Enter search id...</string>
+    <string name="search_by">Search By-</string>
+    <string name="search_item">Search</string>
+    <string name="id_enter">Book Id</string>
+    <string name="publisher">Publisher</string>
+
+    <string name="id_label">Id:&#160;&#160;&#160;</string>
+    <string name="name_label">Book Name:&#160;&#160;&#160;</string>
+    <string name="author_label">Author:&#160;&#160;&#160;</string>
+    <string name="genre_label">Genre:&#160;&#160;&#160;</string>
+    <string name="publisher_label">Publisher:&#160;&#160;&#160;</string>
+    <string name="student_label">Student:&#160;&#160;&#160;</string>
+    <string name="rollno_label">Roll No:&#160;&#160;&#160;</string>
+    <string name="id">Book Id</string>
+
+    <string name="return_to_home">Return to Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_name">Enter full name...</string>
+    <string name="search_by_book_name">Search by Book Name</string>
+    <string name="search_by_genre">Search by Genre</string>
+    <string name="search_by_author_name">Search by Author Name</string>
+    <string name="filter_books">Filter Books</string>
+
+</resources>
